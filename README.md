@@ -10,8 +10,8 @@ It will be covered after initial few assignments.
 
 Will post here soon
 
-## Screenshots:
+## Screenshot:
 
-
+![This is an image](https://github.com/govind-magar-999/webpage-assignment-01/blob/main/thumbnail.png)
 
 
