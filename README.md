@@ -8,7 +8,7 @@ It will be covered after initial few assignments.
 
 ## Netlify link: 
 
-Will post here soon
+[Live page](https://portfolio-builder-template.netlify.app/)
 
 ## Screenshot:
 
