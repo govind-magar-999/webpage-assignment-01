@@ -6,9 +6,9 @@ This is first assignement of Fullstack JS bootcamp with introductory knowledge o
 Here, you can see the usage of positioning in HTML-CSS. There is no responsive design implemented in this one.
 It will be covered after initial few assignments.
 
-## Netlify link: 
+## Live page: 
 
-[Live page](https://portfolio-builder-template.netlify.app/)
+[Netlify hosted URL](https://portfolio-builder-template.netlify.app/)
 
 ## Screenshot:
 
